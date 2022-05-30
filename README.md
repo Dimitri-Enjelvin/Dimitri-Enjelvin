@@ -1,36 +1,36 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dimitri-enjelvin.dimitri-enjelvin"> -->
-<!-- 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Dimitri+Enjelvin....;Welcome+to+my+page+!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/dimitri-e-31b594147" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://stackoverflow.com/users/17163288/dimitri-enjelvin" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/dimi-script/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Dimitri Enjelvin, React & React-Native Developer from France !
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 I'm currently working as a Freelance as a Web/Mobile Developer
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 I graduated from Institut F2I based in both Vincennes and Paris in France
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  💻 Coding is my passion, I love to create nice designs, beautiful and smooth animations 
   <br>
-  💻 I love writing code and learn anythings about it
+  📚 I’m currently learning Typescript and I'm planning to learn Python and Kubernetes later on
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  🎾 When I'm not in front of my computer, I'm surely on a tennis court
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  💬 Ask me anything about from <a href="https://github.com/dimitri-enjelvin/dimitri-enjelvin/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: dimitri.enjelvin@gmail.com">dimitri.enjelvin@gmail.com</a>
 </p>
 
 <hr>
@@ -52,20 +52,20 @@
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Slack" height="25" src="images/slack-logo.svg"></code>
+  <code><img title="Figma" height="25" src="images/figma-logo.svg"></code>
+  <code><img title="Photoshop" height="25" src="images/photoshop-logo.svg"></code>
+  <code><img title="AWS" height="25" src="images/aws-logo.svg"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Firebase" height="25" src="images/firebase-logo.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
+  <code><img title="Next" height="25" src="images/next-logo.svg"></code>
+  <code><img title="Gatsby" height="25" src="images/gatsby-logo.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="GraphQL" height="25" src="images/graphql-logo.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Node" height="25" src="images/node-logo.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb-logo.svg"></code>
 </p>
 <hr>
 
@@ -113,7 +113,7 @@
   <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
- -->
+
 
 <!-- ### Hi there 👋
 
